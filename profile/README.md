@@ -1,4 +1,4 @@
-# Charoite, the univeral Web "OS"
+# Charoite, the universal Web "OS"
 
 <!--
 
