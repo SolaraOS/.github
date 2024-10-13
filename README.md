@@ -1,1 +1,1 @@
-# .github
+# Charoite, the universal Web "OS"
