@@ -1,5 +1,6 @@
-# Solara, the universal Web "OS"
+# Welcome to Solara
 
+Solara is a new univeral Web enviornment
 <!--
 
 **Here are some ideas to get you started:**
