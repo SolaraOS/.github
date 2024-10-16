@@ -1,4 +1,4 @@
-# Charoite, the universal Web "OS"
+# Solara, the universal Web "OS"
 
 <!--
 
