@@ -1,6 +1,11 @@
-# Welcome to Solara
+<div align="center">
+  <h1>Welcome to Solara</h1>
+  <p>A new, universal web-based "OS" enviornment</p>
+</div>
 
-Solara is a new univeral Web enviornment
+Join our Discord!<br>
+- [Discord](https://discord.gg/FVA6vDparH)
+
 <!--
 
 **Here are some ideas to get you started:**
