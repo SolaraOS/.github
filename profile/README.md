@@ -3,9 +3,6 @@
   <p>A new, universal web-based "OS" environment</p>
 </div>
 
-Join our Discord!<br>
-- [Discord](https://discord.gg/FVA6vDparH)
-
 <!--
 
 **Here are some ideas to get you started:**
