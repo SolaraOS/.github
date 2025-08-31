@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to Solara</h1>
-  <p>A new, universal web-based "OS" enviornment</p>
+  <p>A new, universal web-based "OS" environment</p>
 </div>
 
 Join our Discord!<br>
